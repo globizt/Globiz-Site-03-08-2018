@@ -5,7 +5,7 @@ author: globizte_globiz1
 post_excerpt: ""
 layout: page
 permalink: >
-  https://globiztechnology.com/portfolio/standard-in-grid/
+  http://globiztechnology.com/portfolio/standard-in-grid/
 published: true
 post_date: 2017-12-15 15:15:40
 ---
