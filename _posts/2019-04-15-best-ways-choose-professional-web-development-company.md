@@ -17,7 +17,7 @@ Now, what these developers do? A lot of them are involved in web development. Th
 
 But are they? Not necessarily. It is essential-for that matter- to choose a web development company that will actually help you achieve your business goal.
 
-[caption id="attachment_5656" align="aligncenter" width="808"]<img class="wp-image-5656 size-full" src="https://www.globiztechnology.com/wp-content/uploads/2019/04/blog_post_image_concept_2_15-04-2019-1.jpg" alt="Web Development Company" width="808" height="850" /> Web Development Company[/caption]
+<img class="aligncenter wp-image-5656 size-full" src="https://www.globiztechnology.com/wp-content/uploads/2019/04/blog_post_image_concept_2_15-04-2019-1.jpg" alt="Web Development Company" width="808" height="850" />
 
 Now if you want your website be perfect to the T, you should give strong heed to certain points.
 
