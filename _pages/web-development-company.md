@@ -5,7 +5,7 @@ author: globizte_globiz1
 post_excerpt: ""
 layout: page
 permalink: >
-  https://globiztechnology.com/web-development-company/
+  https://www.globiztechnology.com/web-development-company/
 published: true
 post_date: 2018-06-08 06:36:03
 ---
