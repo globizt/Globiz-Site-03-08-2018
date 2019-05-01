@@ -50,7 +50,7 @@ Fix a specific amount of funds that you would like to spend on the website, it w
 
 Fixing a budget organizes things.
 
-Now since you are focused with requirements, goals &amp; budget- you should enquire about certain things regarding the <strong>web development company. </strong>
+Now since you are focused with requirements, goals &amp; budget- you should enquire about certain things regarding the <strong><a href="https://www.globiztechnology.com/best-ways-choose-professional-web-development-company/">web development company</a>. </strong>
 
 Dig deep into their-
 <ol>
@@ -104,7 +104,7 @@ It will make you able to implement changes to your website at will. Get up-to-da
 <ol start="7">
  	<li><strong> Any Warranty? </strong></li>
 </ol>
-This is crucial to ensure whether or not your <strong>custom eCommerce web development company</strong> will be providing a guarantee on its work. It’s very heartbreaking if you are delivered a website that doesn’t work the way it was promised.
+This is crucial to ensure whether or not your <a href="https://www.globiztechnology.com/ecommerce-development-company/"><strong>custom eCommerce web development company</strong></a> will be providing a guarantee on its work. It’s very heartbreaking if you are delivered a website that doesn’t work the way it was promised.
 
 If they do not agree to provide any warranty- go with someone who does provide warranty.
 <ol start="8">
