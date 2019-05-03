@@ -1,6 +1,6 @@
 ---
 ID: 220
-post_title: Globiz Technology Inc.
+post_title: 'Website &#038; Mobile Application Development Company Ludhiana India'
 author: globizte_globiz1
 post_excerpt: ""
 layout: page
