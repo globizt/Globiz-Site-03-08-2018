@@ -23,7 +23,7 @@ Furthermore, Android OS is controlling almost 77% of the mobile devices includin
 
 The number of mobile app downloads-for that matter- is growing enormously. The expected number of downloads are likely to reach over 258 billion by 2022.
 
-<img class="wp-image-5733 size-full" src="https://globiztechnology.com/wp-content/uploads/2019/06/blog_post_banner_1_19-06-2019.jpg" alt="Android App Development Company" width="800" height="800" />
+<img class="aligncenter wp-image-5733 size-full" src="https://globiztechnology.com/wp-content/uploads/2019/06/blog_post_banner_1_19-06-2019.jpg" alt="Android App Development Company" width="800" height="800" />
 
 Needless to say that android app development company is now an integral part of core strategy for startups, top businesses and online stores.
 
