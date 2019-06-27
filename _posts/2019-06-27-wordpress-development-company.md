@@ -21,7 +21,7 @@ An open-source Content Management System (CMS) which is based on PHP and MySQL.
 
 And right now, millions of people are working on WordPress websites while you are reading this blog. A <strong>WordPress development company India</strong>-without any surprise- is in much demand these days.
 
-[caption id="attachment_5744" align="alignnone" width="1024"]<img class="wp-image-5744 size-large" src="https://globiztechnology.com/wp-content/uploads/2019/06/social_media_banner_concept_1@20-06-2019-1024x1024.jpg" alt="WordPress Development Company" width="1024" height="1024" /> WordPress Development Company[/caption]
+<img class="wp-image-5744 size-large" src="https://globiztechnology.com/wp-content/uploads/2019/06/social_media_banner_concept_1@20-06-2019-1024x1024.jpg" alt="WordPress Development Company" width="1024" height="1024" />
 
 <strong>What to look in a WordPress Development Company</strong>
 
