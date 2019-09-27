@@ -94,4 +94,4 @@ This is our passion to provide inflexible client services and satisfaction at ev
 <h5><strong>For any type of architectural design services get in touch today</strong></h5>
 <h5><strong>We guarantee the complete peace of mind</strong></h5>
 <h5><strong>Find an architectural design services company</strong></h5>
-Looking for talking to or hire an architect in your area? <b>Click here</b> to get the registered architects who are specialists in design services.[/vc_column_text][/vc_column][/vc_row]
+Looking for talking to or hire an architect in your area? <b>Contact Us</b>[/vc_column_text][/vc_column][/vc_row]
