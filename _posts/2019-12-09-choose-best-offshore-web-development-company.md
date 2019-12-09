@@ -29,7 +29,7 @@ The cost part always pinches. Isn’t it?
 
 &nbsp;
 
-[caption id="attachment_5792" align="alignnone" width="2223"]<img class="size-full wp-image-5792" src="https://globiztechnology.com/wp-content/uploads/2019/12/Globiz_Blog-Banner@06-Dec.jpg" alt="Best Offshore Web Development Company" width="2223" height="1667" /> Best Offshore Web Development Company[/caption]
+<img class="size-full wp-image-5792" src="https://globiztechnology.com/wp-content/uploads/2019/12/Globiz_Blog-Banner@06-Dec.jpg" alt="Best Offshore Web Development Company" width="2223" height="1667" />
 
 &nbsp;
 
