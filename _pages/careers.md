@@ -8,7 +8,33 @@ permalink: https://globiztechnology.com/careers/
 published: true
 post_date: 2018-06-14 04:54:16
 ---
-[vc_row][vc_column][qodef_section_title type="standard" position="center" title_tag="" disable_break_words="no" text_tag="" text_font_weight="" title="Come Join Us!" text="Great Opportunities For Freshers And Experienced"][/vc_column][/vc_row][vc_row][vc_column][qodef_accordion][qodef_accordion_tab title="Senior Manager Business Development"][vc_column_text]
+[vc_row][vc_column][qodef_section_title type="standard" position="center" title_tag="" disable_break_words="no" text_tag="" text_font_weight="" title="Come Join Us!" text="Great Opportunities For Freshers And Experienced"][/vc_column][/vc_row][vc_row][vc_column][qodef_accordion][qodef_accordion_tab title="Senior Software Developer"][vc_column_text]
+<h3><strong>Position:- Senior Software Developer</strong></h3>
+<strong>Eligibility: BS/MS degree in Computer Science</strong> with minimum 2-3 years of experience.
+
+<strong>
+Requirements</strong>
+<ul>
+ 	<li>Proven software development experience in PHP</li>
+ 	<li>Understanding of open source projects like Joomla, Drupal, Wikis, osCommerce, etc</li>
+ 	<li>Demonstrable knowledge of web technologies including HTML, CSS, Javascript, AJAX etc</li>
+ 	<li>Good knowledge of relational databases, version control tools and of developing web services</li>
+ 	<li>Experience in common third-party APIs (Google, Facebook, Ebay etc)</li>
+ 	<li>Passion for best design and coding practices and a desire to develop new bold ideas</li>
+</ul>
+<strong>Responsibilities
+</strong>
+<ul>
+ 	<li>Write “clean”, well-designed code</li>
+ 	<li>Produce detailed specifications</li>
+ 	<li>Troubleshoot, test and maintain the core product software and databases to ensure strong optimization and functionality</li>
+ 	<li>Contribute in all phases of the development life cycle</li>
+ 	<li>Follow industry best practices</li>
+ 	<li>Develop and deploy new features to facilitate related procedures and tools if necessary</li>
+</ul>
+Selected Candidates will get the Package as per the industry standards.
+
+<a href="http://globiztechnology.com/application-form/">Click Here To Apply</a>[/vc_column_text][/qodef_accordion_tab][qodef_accordion_tab title="Senior Manager Business Development"][vc_column_text]
 <h3><strong>Position:- Senior manager business development</strong></h3>
 <strong>Eligibility: </strong>BBA/MBA (IT /Marketing)/PGDBA with 8-10 years of experience. Excellent written, spoken English  and effective presentation skills.
 
