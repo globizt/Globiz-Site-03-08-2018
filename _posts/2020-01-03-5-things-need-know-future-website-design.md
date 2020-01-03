@@ -65,7 +65,7 @@ And so the website needs to transmit a lot more trust and each of its elements m
 
 Power your website with bots and AI. Use animations for it to be successful.
 
-In the end, make it more and more interesting through <strong><a href="https://globiztechnology.com/php-web-development-company-india/ target="_blank"">PHP Website Development</a>.</strong>
+In the end, make it more and more interesting through <strong><a href="https://globiztechnology.com/php-web-development-company-india/"  target="_blank">PHP Website Development</a>.</strong>
 <ol start="5">
  	<li><strong> Virtual reality &amp; AR cannot be ignored</strong></li>
 </ol>
