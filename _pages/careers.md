@@ -10,6 +10,8 @@ post_date: 2018-06-14 04:54:16
 ---
 [vc_row][vc_column][qodef_section_title type="standard" position="center" title_tag="" disable_break_words="no" text_tag="" text_font_weight="" title="Come Join Us!" text="Great Opportunities For Freshers And Experienced"][/vc_column][/vc_row][vc_row][vc_column][qodef_accordion][qodef_accordion_tab title="Senior Software Developer"][vc_column_text]
 <h3><strong>Position:- Senior Software Developer</strong></h3>
+<strong>Location: </strong>Ludhiana
+
 <strong>Eligibility: BS/MS degree in Computer Science</strong> with minimum 2-3 years of experience.
 
 <strong>
