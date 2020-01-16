@@ -37,7 +37,7 @@ You need to hire a pool of advanced talent that can fulfil the demand for all ty
 
 &nbsp;
 
-<img class="wp-image-5806  aligncenter" src="https://globiztechnology.com/wp-content/uploads/2020/01/Top-5-challenges-in-Mobile-Application-Development-1024x768.jpg" alt="Top 5 challenges in Mobile Application Development" width="947" height="710" />
+<img class="wp-image-5806 aligncenter" src="https://globiztechnology.com/wp-content/uploads/2020/01/Top-5-challenges-in-Mobile-Application-Development-1024x768.jpg" alt="Top 5 challenges in Mobile Application Development" width="947" height="710" />
 
 &nbsp;
 <ol start="3">
