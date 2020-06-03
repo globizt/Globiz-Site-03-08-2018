@@ -7,7 +7,7 @@ author: globizte_globiz1
 post_excerpt: ""
 layout: post
 permalink: >
-  https://globiztechnology.com/2018/07/07/these-8-traits-will-help-you-the-leading-seo-services-company-in-india/
+  https://globiztechnology.com/these-8-traits-will-help-you-the-leading-seo-services-company-in-india/
 published: true
 post_date: 2018-07-07 11:02:17
 ---
@@ -27,8 +27,7 @@ The structure of website is one of the foremost SEO aspects to decide if the sea
 </ol>
 While hiring a SEO company to spread the scoop about your business, you should make sure if the service provider is well adept at catering to the needs of your business. It should be able to identify the targeted audiences, make them your returning visitors through a foolproof SEO strategy and execute the intended deliverables accordingly.
 <ol start="4">
- 	<li><strong>
-Credible Work profile</strong></li>
+ 	<li><strong>Credible Work profile</strong></li>
 </ol>
 Just because a SEO service provider is good at ranking an e-commerce website, you can’t consider it reliable for a travel website or the one representing some other domain. All the fields have respective requirements and technical jargon that need proper understanding before taking up the projects. Hence, it is essential to cross-check the expertise of the concerned company in your industry.
 <ul>
