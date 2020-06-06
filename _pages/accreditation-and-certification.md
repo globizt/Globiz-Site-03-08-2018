@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2020-06-03 08:35:49
 ---
-[vc_row el_class="certification_imgz"][vc_column][qodef_image_gallery type="grid" enable_image_shadow="no" number_of_columns="four" space_between_items="no" images="5842,5843"][/vc_column][/vc_row]
+[vc_row el_class="certification_imgz"][vc_column width="1/2"][vc_single_image image="5858" alignment="right"][/vc_column][vc_column width="1/2"][vc_single_image image="5857"][/vc_column][/vc_row]
