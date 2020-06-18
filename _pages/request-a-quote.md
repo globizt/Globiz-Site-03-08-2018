@@ -38,7 +38,7 @@ post_date: 2018-07-24 05:48:30
 [/vc_message][/vc_column][vc_column width="1/3"][vc_message style="round" message_box_color="white" icon_fontawesome="fa fa-check"]
 <h4 style="text-align: center;">Testing/ QA</h4>
 [/vc_message][/vc_column][/vc_row][vc_row][vc_column][vc_custom_heading text="Deliver" font_container="tag:h4|text_align:center" use_theme_fonts="yes"][/vc_column][/vc_row][vc_row][vc_column width="1/4"][/vc_column][vc_column width="1/4"][vc_message style="round" message_box_color="white" icon_fontawesome="fa fa-check"]
-<h5 style="text-align: center;">Support</h5>
+<h4 style="text-align: center;">Support</h4>
 [/vc_message][/vc_column][vc_column width="1/4"][vc_message style="round" message_box_color="white" icon_fontawesome="fa fa-check"]
 <h4 style="text-align: center;">Review</h4>
 [/vc_message][/vc_column][vc_column width="1/4"][/vc_column][/vc_row][vc_row][vc_column][vc_column_text][vfb id='1'][/vc_column_text][/vc_column][/vc_row]
