@@ -41,4 +41,7 @@ post_date: 2018-07-24 05:48:30
 <h4 style="text-align: center;">Support</h4>
 [/vc_message][/vc_column][vc_column width="1/4"][vc_message style="round" message_box_color="white" icon_fontawesome="fa fa-check"]
 <h4 style="text-align: center;">Review</h4>
-[/vc_message][/vc_column][vc_column width="1/4"][/vc_column][/vc_row][vc_row][vc_column][vc_column_text][vfb id='1'][/vc_column_text][/vc_column][/vc_row]
+[/vc_message][/vc_column][vc_column width="1/4"][/vc_column][/vc_row][vc_row][vc_column][vc_column_text][vfb id='1'][/vc_column_text][vc_column_text]
+<h4 style="text-align: center;">Ready to start a project :
+To start , use a form to tell us about you and the project .</h4>
+[/vc_column_text][/vc_column][/vc_row]
